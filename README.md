@@ -25,8 +25,8 @@ TuxGuitar-InstaShred-MacOS requires your computer to have a BLE/Bluetooth module
   - Add TuxGuitar program onto this list using the plus icon
 
 4. Download the TuxGuitar Plugin files
-  - SimpleBLE:
-  - InstaShred Plugin: 
+  - SimpleBLE (latest simpleble_shared_macos-x86_64.zip): https://github.com/OpenBluetoothToolbox/SimpleBLE/releases 
+  - InstaShred Plugin: https://github.com/InstaShred/TuxGuitar-InstaShred-MacOS/releases/tag/initial_release
 
 5. Move the required files to the plugin folder of your TuxGuitar installation
   - The correct **destination** folder for the plugin files (downloaded in step #4) is at: YOUR_TUXGUITAR_APPLICATION/Contents/MacOS/share/plugins. To access this folder, simply right click on the TuxGuitar application and select "Show Package Contents". You can then navigate this just like a normal folder structure, clicking through "Contexts/MacOS/share/plugins". There should be numerous .jar files in this folder.
